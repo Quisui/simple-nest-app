@@ -6,7 +6,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-Just a simple nest app to show several concepts
+Just a simple nest app to show several concepts, it is a car dealership with brands and seeds
 
 ## Installation
 
